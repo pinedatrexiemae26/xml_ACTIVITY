@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLANTS>
+    <Plant>
+        <herb>
+            <name>Ginger</name>
+            <scientificname>Zingiber officinale</scientificname>
+            <uses>nausea and vomiting</uses>
+            <timeboiled>Boil the ginger root and water for 10 to twenty mins</timeboiled>
+            <lifespan>two years</lifespan>
+            <facts>
+                <fact_1>Ginger is actually a rhizome, not a root</fact_1>
+                <fact_2>The ginger plant is an herb</fact_2>
+                <fact_3>Ginger is a part of the Zingiberaceae family, which also includes turmeric and cardamom</fact_3>
+                <fact_4>May help with cancer</fact_4>
+                <fact_5>Healthier Skin</fact_5>
+            </facts>
+        </herb>
+
+        <herb>
+            <name>Tawa-Tawa</name>
+            <scientificname>Euphorbia hirta</scientificname>
+            <uses>treatment for dengue</uses>
+            <timeboiled>15 mins</timeboiled>
+            <lifespan>60 days</lifespan>
+            <facts>
+                <fact_1>It contains triterpenes</fact_1>
+                <fact_2>phytosterols</fact_2>
+                <fact_3>tannins</fact_3>
+                <fact_4>polyphenols</fact_4>
+                <fact_5>flavonoids</fact_5>
+            </facts>
+        </herb>
+
+        <herb>
+            <name>Sambong</name>
+            <scientificname>Blamea balsamifera</scientificname>
+            <uses>good for kidney</uses>
+            <timeboiled>Steep the leaves for 10 mins</timeboiled>
+            <lifespan>All years</lifespan>
+            <facts>
+                <fact_1>Traditional chinese medicine</fact_1>
+                <fact_2>This plant grows on the forest edges, under forest, river and valleys and grasses</fact_2>
+                <fact_3>treat for wounds</fact_3>
+                <fact_4>treat for rheumatism</fact_4>
+                <fact_5>treat for anti-diarrhea</fact_5>
+            </facts>
+        </herb>
+
+        <herb>
+            <name>Lagundi</name>
+            <scientificname>Vitex negundo</scientificname>
+            <uses>effectively treat wounds, headache, ulcer,skin disease, diarrhea, and some common cold</uses>
+            <timeboiled>2 cups of water, boil for 10 mins</timeboiled>
+            <lifespan>two years</lifespan>
+            <facts>
+                <fact_1>used to treat insect and snake bites</fact_1>
+                <fact_2>Primarily it is recognized as herbal medicine for resporatory problems</fact_2>
+                <fact_3>treat for wounds</fact_3>
+                <fact_4>treat headache</fact_4>
+                <fact_5>treat for skin diseases</fact_5>
+            </facts>
+        </herb>
+
+        <herb>
+            <name>Ulasimang Bato</name>
+            <scientificname>Peperomia pellucida</scientificname>
+            <uses>the leaves have been used as a decoction to treat gout</uses>
+            <timeboiled>10 - 15 mins</timeboiled>
+            <lifespan>40 days</lifespan>
+            <facts>
+                <fact_1>Also known as "Pansit pansitan"in the Philippines</fact_1>
+                <fact_2>conatins flavonoids and alkaloids</fact_2>
+                <fact_3>May have anti-inflammatory and analgesic effects</fact_3>
+                <fact_4>can be used topically to treat skin infection and wounds</fact_4>
+                <fact_5>can be consumed as a vegetable  and is a good sources of vitamins and minerals</fact_5>
+            </facts>
+        </herb>
+    </plant>
+</PLANTS>
+
